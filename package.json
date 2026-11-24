@@ -1,0 +1,11 @@
+{
+  "name": "webpack-negated-equality-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "repro": "node reproduce.cjs"
+  },
+  "dependencies": {
+    "webpack": "https://codeload.github.com/webpack/webpack/tar.gz/d9165100217b0038c0d1dae6c38223fee66d54eb"
+  }
+}
